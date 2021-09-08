@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <Color x:Key="MarinaBlueColor">#1d91da</Color>
+    <Color x:Key="MarinaDarkColor">#212121</Color>
+    
+</ResourceDictionary>

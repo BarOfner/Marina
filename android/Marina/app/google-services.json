@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "100526188023",
+    "firebase_url": "https://marina-a2458.firebaseio.com",
+    "project_id": "marina-a2458",
+    "storage_bucket": "marina-a2458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100526188023:android:3cd0aaaea45b0ce9",
+        "android_client_info": {
+          "package_name": "com.example.user.marina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100526188023-619tgqr4njpv28dlel7oi7ukncr7aeh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.marina",
+            "certificate_hash": "aa7d6c0da4d7959780f3d711b6be0a13ea318e30"
+          }
+        },
+        {
+          "client_id": "100526188023-4rt8fl1gbdq1ls79vsf7ngqa6rlet3sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyeOdz34eO77LdsNJh1aSTCx5yzPx3XGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100526188023-4rt8fl1gbdq1ls79vsf7ngqa6rlet3sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

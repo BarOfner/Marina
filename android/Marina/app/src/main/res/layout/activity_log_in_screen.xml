@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LogInScreen"
+
+    android:background="#212121"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:columnCount="5"
+    android:orientation="vertical"
+    android:rowCount="5"
+    app:layout_constraintTop_toTopOf="parent"
+    tools:layout_editor_absoluteX="0dp">
+
+    <ImageView
+        android:contentDescription="Marina"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_rowWeight="1"
+        android:src="@mipmap/logo_transparent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_rowWeight="4">
+
+        <GridLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:columnCount="5"
+            android:orientation="vertical"
+            android:rowCount="8">
+
+            <LinearLayout android:layout_rowWeight="2" />
+
+            <EditText
+                android:id="@+id/EmailBox"
+                style="@style/EditTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_rowSpan="1"
+                android:layout_rowWeight="1"
+                android:drawableLeft="@android:drawable/sym_action_email"
+                android:drawablePadding="10dp"
+                android:gravity="left|center_vertical"
+                android:hint="Email"
+                android:paddingLeft="15dp"
+                android:textCursorDrawable="@null" />
+
+            <EditText
+                android:id="@+id/PasswordBox"
+                style="@style/EditTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_rowSpan="1"
+                android:layout_rowWeight="1"
+                android:drawableLeft="@android:drawable/ic_lock_idle_lock"
+                android:drawablePadding="10dp"
+                android:gravity="left|center_vertical"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:paddingLeft="17dp"
+                android:textColorHint="#aaaaaa"
+                android:textCursorDrawable="@null" />
+
+            <Button
+                android:id="@+id/SignInButton"
+                style="@style/ButtonStyle"
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_rowSpan="1"
+                android:layout_rowWeight="1"
+                android:gravity="center|center_vertical"
+                android:text="Sign In" />
+
+            <LinearLayout android:layout_rowWeight="3"></LinearLayout>
+        </GridLayout>
+
+    </LinearLayout>
+</GridLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:layoutDirection="ltr"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#212121"
+
+        >
+
+        <!-- TOP BAR -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#1d91da">
+
+            <TextView
+                android:layout_width="100dp"
+                android:textSize="30sp"
+                android:textColor="#ffffff"
+                android:layout_height="40dp"
+                android:layout_weight="0"
+                android:gravity="center_vertical|center"
+                android:layout_alignParentLeft="true"
+                android:text="Marina" />
+
+            <TextView
+                android:id="@+id/SignInButton"
+                android:layout_width="100dp"
+                android:textSize="15sp"
+                android:textColor="#ffffff"
+                android:layout_height="40dp"
+                android:gravity="center_vertical|end"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:text="Sign In" />
+            <TextView
+                android:id="@+id/SignOutButton"
+                android:layout_width="100dp"
+                android:textSize="15sp"
+                android:textColor="#ffffff"
+                android:layout_height="40dp"
+                android:gravity="center_vertical|end"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:text="Sign Out"
+                android:visibility="invisible"/>
+
+        </RelativeLayout>
+
+        <!-- MESSAGES VIEW -->
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1"  >
+            <TextView
+                android:textColor="#ffffff"
+                android:id="@+id/ShowResponse"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp" />
+
+        </ScrollView>
+
+        <!-- BOTTOM BAR -->
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:baselineAligned="true">
+
+            <EditText
+                android:id="@+id/RequestText"
+                android:hint="Enter your wish here..."
+                android:textCursorDrawable="@null"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:layout_width="0dp"
+                android:focusedByDefault="false"
+                style="@style/RequestTextStyle" />
+
+            <ImageButton
+                android:contentDescription="Send"
+                android:src="@mipmap/send_icon"
+                android:layout_height="50dp"
+                android:layout_width="50dp"
+                android:id="@+id/MakeRequest"
+                style="@style/ButtonStyle" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

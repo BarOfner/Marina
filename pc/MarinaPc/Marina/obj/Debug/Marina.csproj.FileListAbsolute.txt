@@ -1,0 +1,76 @@
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Marina.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.g.resources
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Marina.exe
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Marina.pdb
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Firebase.Auth.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Firebase.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Core.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Linq.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Windows.Threading.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Core.xml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Linq.xml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\bin\Debug\System.Reactive.Windows.Threading.xml
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.exe
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.pdb
+c:\users\user\documents\visual studio 2013\Projects\Marina\Marina\obj\Debug\Marina.csproj.Marina.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\marina\Marina\obj\Debug\styles\Buttons.baml
+C:\Users\User\documents\visual studio 2013\Projects\marina\Marina\obj\Debug\styles\Colors.baml
+C:\Users\User\documents\visual studio 2013\Projects\marina\Marina\obj\Debug\styles\Messages.baml
+C:\Users\User\documents\visual studio 2013\Projects\marina\Marina\obj\Debug\App.baml
+C:\Users\User\documents\visual studio 2013\Projects\marina\Marina\obj\Debug\Sign In.baml
+C:\Users\User\documents\visual studio 2013\Projects\marina\Marina\obj\Debug\Sign In.g.cs
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Marina.exe.config
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Marina.exe
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Marina.pdb
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Firebase.Auth.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Firebase.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Core.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Linq.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Web.Http.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Core.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Linq.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Web.Http.xml
+C:\Users\User\Desktop\MarinaPc\Marina\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.exe.config
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Sign In.baml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\styles\Buttons.baml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\styles\Colors.baml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\styles\Messages.baml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\App.baml
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Sign In.g.cs
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\App.g.cs
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina_MarkupCompile.cache
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.g.resources
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.Properties.Resources.resources
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.csproj.CopyComplete
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.exe
+C:\Users\User\Desktop\MarinaPc\Marina\obj\Debug\Marina.pdb
